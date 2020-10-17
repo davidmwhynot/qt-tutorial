@@ -1,3 +1,5 @@
 .qmake.stash
 Makefile
+qt-tutorial
+main.o
 
